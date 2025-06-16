@@ -30,12 +30,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ```
-
-## Project structure
-.
-├── app.py                 # Streamlit app
-├── train_model.py         # Model training script
-├── spam_classifier.pkl    # Trained ML model
-├── vectorizer.pkl         # CountVectorizer
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
